@@ -20,7 +20,7 @@ Se trabajó aplicando conceptos fundamentales de Programación Orientada a Objet
 - Sobrescritura de métodos (`@Override`)
 - Organización de clases
 - Buenas prácticas de programación
----
+- Se utilizo la siguiente esttructura interface
 public interface Imprimible {
     void imprimir();
 }
