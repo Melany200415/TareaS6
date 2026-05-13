@@ -1,7 +1,6 @@
-# Sistema Académico de Documentos – Interfaces en Java
-
-## Programación Orientada a Objetos | Java | IntelliJ IDEA
-
+# Escuela Politecnica Nacional 
+# Tarea S6
+# Interfaces en Java
 ---
 **Nombre Estudiante :** Perugachi Melany  
 **Materia:** Programación Orientada a Objetos  
