@@ -49,3 +49,37 @@ También se agregó una comisión diferente para pagos con tarjeta y transferenc
 - Encapsulamiento
 - Validaciones
 - Polimorfismo
+---
+**Ejercicio 3 **
+
+En este ejercicio se desarrolló un sistema de roles empresariales utilizando múltiples interfaces en Java.
+
+Se crearon las interfaces:
+
+- Autenticable
+- Reportable
+- Gestionable
+
+Y las clases:
+
+- Cajero
+- Administrador
+- Supervisor
+
+Cada clase implementa diferentes interfaces según los permisos y responsabilidades de cada rol dentro de la empresa.
+
+Además, se realizaron validaciones de usuario y contraseña y se implementó un menú simple para ejecutar acciones según el rol seleccionado.
+
+---
+
+# Conceptos aplicados
+
+- Interfaces
+- Implementación múltiple
+- Polimorfismo
+- Encapsulamiento
+- Validaciones
+- Uso de `@Override`
+  ---
+  **VIDEO**
+  
